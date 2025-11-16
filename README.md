@@ -1,7 +1,13 @@
 # 🧠 AlgoViz – Data Structure & Algorithm Visualizer
 
-Visualising **data structures and algorithms through animation**.  
-AlgoViz is a web platform that lets you **see** how core DS & Algo concepts work – step-by-step, with controls for input, speed, and operations.
+🌐 Live Demo
+
+🚀 You can try the hosted version of this project here:  
+**https://algoviz-data-structure-visualization-ghjo.onrender.com**
+
+---
+
+Visualising **data structures and algorithms through animation**. AlgoViz is a web platform that lets you **see** how core DS & Algo concepts work – step-by-step, with controls for input, speed, and operations.
 
 ---
 
